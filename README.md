@@ -1,3 +1,20 @@
+
+---
+
+### ⚠️ Notice
+- 서비스 사용을 위해 OpenAI의 API Key 발급이 필요합니다.
+- API를 사용하기 위해서는 자신의 계정에 일정 금액을 충전하고 사용하는 방식입니다.
+- (사용금액이 충전되어있는) API KEY를 화면 우측패널에 입력후, 기능을 사용할 수 있습니다.
+- API Key 사용요금 및 충전 방법은 OpenAI 홈페이지에서 확인하실 수 있습니다.
+- [OpenAI] API Key: https://platform.openai.com/api-keys
+- [OpenAI] 사용요금 확인: https://platform.openai.com/usage
+
+<p align="center">
+	<img alt="image" src="https://github.com/i-am-shuan/LLM-text-summerize/assets/161431602/22b3ad2c-0902-40d4-b6ad-853757229cab" width="70%" height="70%">
+</p>
+
+---
+
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-PDF-answer-app/assets/161431602/8c758c8e-9689-4255-aa55-5ce502586d1f" width="60%" height="60%">
 </p>
