@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+##### 서비스 설명
 - PDF 질의응답 프로그램
   - spec: streamlit cloud, gpt-3.5-turbo, langchain, RAG - FAISS
     - FAISS: 다양한 벡터 간의 유사도를 계산할 수 있는알고리즘을 모은 패키지.
