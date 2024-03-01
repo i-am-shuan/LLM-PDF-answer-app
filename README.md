@@ -18,13 +18,13 @@
 </p>
 
 ---
-
+##### 서비스 화면
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-PDF-answer-app/assets/161431602/8c758c8e-9689-4255-aa55-5ce502586d1f" width="60%" height="60%">
 </p>
 
 ---
-
+##### 서비스 흐름도
 <p align="center">
 	<img alt="image" src="https://github.com/i-am-shuan/LLM-PDF-answer-app/assets/161431602/b89f470c-0fb3-4779-b7af-d609e8affe26" width="50%" height="50%">
 </p>
